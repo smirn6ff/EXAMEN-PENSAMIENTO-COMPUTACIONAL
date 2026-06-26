@@ -3,6 +3,8 @@ Examen / Pensamiento Computacional
 
 # Generador Interactivo de Paletas de Colores (p5.js)
 
+![Pantalla Principal](pantalla%201.png)
+
 ## Enlaces del Proyecto
 * **Link publico :** https://editor.p5js.org/sai666/full/sT7YNdtXE
 * **Link editable:** https://editor.p5js.org/sai666/sketches/sT7YNdtXE
