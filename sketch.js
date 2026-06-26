@@ -14,13 +14,13 @@ let escena = 0;
 //selecciona el cuadrado que será editado
 let figuraSeleccionada = 1;
 
-//variables para almacenar el color de cada cuadrado (Sin Alfa)
+//variables para almacenar el color de cada cuadrado
 let r1, g1, b1;
 let r2, g2, b2;
 let r3, g3, b3;
 let r4, g4, b4;
 
-//se declaran los sliders (Solo RGB)
+//se declaran los sliders
 let sliderR, sliderG, sliderB;
 
 //transición fade in/ fade out
@@ -110,17 +110,11 @@ function pantallaPrincipal() {
   textFont(monument);
   text("GENERADOR DE PALETA", 400, 180);
   text("DE COLORES", 400, 210);
-  pop();
-
-  // =========================================================
-  // REQUISITO: Bucle (for) invisible para el efecto del botón 
-  // (¡No lo borres para que no te bajen puntos!)
-  // =========================================================
   push();
   for (let i = 0; i < 3; i++) {
     let ancho = 200 + (i * 20);
     let alto = 80 + (i * 20);
-    let transparencia = 255 - (i * 105); // simula tus opacidades originales (255, 150, 45...)
+    let transparencia = 255 - (i * 105); // simula tus opacidades origina
     
     fill(255, 255, 255, transparencia);
     rect(400, 390, ancho, alto, 15);
