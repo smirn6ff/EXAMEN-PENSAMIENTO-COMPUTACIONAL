@@ -72,7 +72,7 @@ Examen / Pensamiento Computacional
 
 ### Bocetos
 * El diseno inicial de la interfaz se estructuro mediante wireframes basicos para definir la distribucion de los elementos. Se decidio colocar la matriz de muestras en la parte superior y agrupar los controles interactivos en la zona inferior y lateral derecha para un flujo de lectura natural.
-* imagen]
+![Bocetos](bocetos.png)
 ---
 
 ## Reflexion Final
@@ -85,3 +85,4 @@ Examen / Pensamiento Computacional
 
 
 ### Diagrama de flujo
+![Diagrama de Flujo](diagrama_de_flujo.png)
