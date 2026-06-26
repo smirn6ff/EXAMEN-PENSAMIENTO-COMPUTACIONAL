@@ -64,7 +64,6 @@ Examen / Pensamiento Computacional
 
 ---
 
-## Registro Visual
 
 ### Referentes
 * Se contemplaron interfaces de usuario modernas en Modo Oscuro de aplicaciones de diseno actuales. Se busco imitar la sobriedad, los contrastes altos y la limpieza en la distribucion de figuras y botones.
@@ -72,7 +71,7 @@ Examen / Pensamiento Computacional
 
 ### Bocetos
 * El diseno inicial de la interfaz se estructuro mediante wireframes basicos para definir la distribucion de los elementos. Se decidio colocar la matriz de muestras en la parte superior y agrupar los controles interactivos en la zona inferior y lateral derecha para un flujo de lectura natural.
-![Bocetos](bocetos.png)
+![Bocetos](bocetos.jpeg)
 ---
 
 ## Reflexion Final
